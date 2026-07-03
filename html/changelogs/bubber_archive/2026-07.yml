@@ -18,3 +18,7 @@
   - refactor: refactored how the synthetics brains work and behave
   nikothedude:
   - code_imp: Lycan transformation sfx is now a variable on the brain
+2026-07-03:
+  LT3:
+  - map: Added a crate return to Void Raptor cargo
+  - map: QoL improvements to PubbyStation cargo area
