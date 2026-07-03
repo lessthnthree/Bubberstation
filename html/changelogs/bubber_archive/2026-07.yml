@@ -22,3 +22,7 @@
   LT3:
   - map: Added a crate return to Void Raptor cargo
   - map: QoL improvements to PubbyStation cargo area
+  Odairu:
+  - balance: reverts bluelens to TG base
+  TealSeer:
+  - bugfix: fixed modsuits hiding horns
