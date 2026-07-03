@@ -1,6 +1,0 @@
-author: "UvvU"
-delete-after: True
-changes:
-  - rscadd: "Added a HoS service weapon case, allowing them to select their weapon. Revolver sprite by Niim"
-  - rscdel: "Removed the wardens compact shotgun from their locker"
-  - balance: "made the wardens martial arts gloves make them unable to be shoved down or staggered"
