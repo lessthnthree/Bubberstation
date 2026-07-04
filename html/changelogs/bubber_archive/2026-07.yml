@@ -62,3 +62,10 @@
   - rscdel: Removed the wardens compact shotgun from their locker
   - balance: made the wardens martial arts gloves make them unable to be shoved down
       or staggered
+2026-07-04:
+  BitSynergy, Giik:
+  - rscadd: Ported Skiff cyborgs from Troutstation
+  - image: Added Skiff sprites
+  - image: Added extra resting states for Skiff
+  - image: Added wrecked state for Skiff
+  - image: Added new department sprites for Skiff
