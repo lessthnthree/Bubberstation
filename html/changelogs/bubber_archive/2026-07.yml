@@ -69,3 +69,7 @@
   - image: Added extra resting states for Skiff
   - image: Added wrecked state for Skiff
   - image: Added new department sprites for Skiff
+  Robwo:
+  - image: Cells, stock parts, apcs and intercoms have been resprited.
+  SomeCabbage:
+  - rscadd: adds digitigrade sprites for the cheerleading shoes
