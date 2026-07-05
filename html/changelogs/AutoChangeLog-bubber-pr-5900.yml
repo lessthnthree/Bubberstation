@@ -1,4 +1,0 @@
-author: "Danielance"
-delete-after: True
-changes:
-  - bugfix: "fixed gear harness and suit harness not being invisible on teshari"
