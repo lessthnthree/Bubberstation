@@ -1,5 +1,0 @@
-author: "TheRealWoodside"
-delete-after: True
-changes:
-  - rscadd: "Ability to use the most common accented Latin letters in character names."
-  - rscdel: "Auto-capitalization after apostrophe."
