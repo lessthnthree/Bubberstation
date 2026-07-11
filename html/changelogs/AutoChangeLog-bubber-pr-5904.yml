@@ -1,0 +1,5 @@
+author: "LT3"
+delete-after: True
+changes:
+  - bugfix: "NIFsoft programs no longer consume the disk when installation fails"
+  - bugfix: "Preinstalled NIFsoft programs should actually preinstall"
