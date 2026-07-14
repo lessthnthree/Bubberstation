@@ -152,5 +152,9 @@
   - map: Added blacksmithing office to Pubby.
   - map: Misc Pubby fixes. See pull 5907 for full list of changes.
   - rscadd: Added a barber airlock access helper for mappers.
+  - rscadd: Added emergency n2 tanks to oxygen closets for vox.
+  ibexgoetia:
+  - rscadd: The PDAs of the Nanotrasen Consultant, the Lawyer and the Blueshield now
+      come preinstalled with the FaxBond app. May they never miss a fax again.
   nikothedude:
   - balance: Mini egun is gone from cargo
