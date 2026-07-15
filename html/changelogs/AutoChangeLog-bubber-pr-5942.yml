@@ -1,6 +1,0 @@
-author: "Aeri"
-delete-after: True
-changes:
-  - bugfix: "The cargo teleporter is no longer capable of casually rebooting the server."
-  - qol: "Nanotrasen has upgraded the station's cargo teleporter device to the latest model after several incidents of reality disruption."
-  - qol: "Cargo telebeacons can be color-coded and relabeled with a pen. Four can be deployed at once, up from three."
