@@ -1,0 +1,5 @@
+author: "NanoCats"
+delete-after: True
+changes:
+  - rscadd: "Department guards get unique headsets that can send reports to Security with :s"
+  - image: "Added sprites for the guard headset."
