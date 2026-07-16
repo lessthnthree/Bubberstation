@@ -165,3 +165,8 @@
       model after several incidents of reality disruption.
   - qol: Cargo telebeacons can be color-coded and relabeled with a pen. Four can be
       deployed at once, up from three.
+2026-07-16:
+  NanoCats:
+  - rscadd: Department guards get unique headsets that can send reports to Security
+      with :s
+  - image: Added sprites for the guard headset.
