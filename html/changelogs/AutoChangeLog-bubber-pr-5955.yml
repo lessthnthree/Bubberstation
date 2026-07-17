@@ -1,4 +1,0 @@
-author: "Odairu"
-delete-after: True
-changes:
-  - qol: "AI core PDA messages get forwarded to their deployed shell"

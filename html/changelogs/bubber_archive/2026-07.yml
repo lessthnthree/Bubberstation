@@ -170,3 +170,7 @@
   - rscadd: Department guards get unique headsets that can send reports to Security
       with :s
   - image: Added sprites for the guard headset.
+2026-07-17:
+  Odairu:
+  - qol: AI core PDA messages get forwarded to their deployed shell
+  - balance: grav gen less likely to roll
