@@ -1,0 +1,5 @@
+author: "Aisu9"
+delete-after: True
+changes:
+  - rscadd: "cargo's request wall mounted med-station can now print normal sutures and regenerative meshes."
+  - balance: "re-arrange items choice in the med-station, rebalance numbers around single-item printing(and the fact that you can't upgrade this machine either), no need to sit next to it for 2 minutes for printing 6 sutures"
