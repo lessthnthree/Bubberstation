@@ -1,0 +1,4 @@
+author: "Odairu"
+delete-after: True
+changes:
+  - balance: "grav gen less likely to roll"
