@@ -171,6 +171,8 @@
       with :s
   - image: Added sprites for the guard headset.
 2026-07-17:
+  LT3:
+  - qol: Stamping a paper now automatically closes the paper UI
   Odairu:
   - qol: AI core PDA messages get forwarded to their deployed shell
   - balance: grav gen less likely to roll
