@@ -64,14 +64,6 @@
 	)
 
 // MEDICAL
-/datum/techweb_node/xenobiology/New()
-	. = ..()
-	design_ids += list(
-		"limbdesign_hemophage",
-		"limbdesign_tajaran",
-		"limbdesign_teshari",
-	)
-
 /datum/techweb_node/cyber/cyber_implants/New()
 	. = ..()
 	design_ids += list(
