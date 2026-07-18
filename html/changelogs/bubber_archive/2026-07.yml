@@ -176,3 +176,13 @@
   Odairu:
   - qol: AI core PDA messages get forwarded to their deployed shell
   - balance: grav gen less likely to roll
+2026-07-18:
+  Aisu9:
+  - rscadd: cargo's request wall mounted med-station can now print normal sutures
+      and regenerative meshes.
+  - balance: re-arrange items choice in the med-station, rebalance numbers around
+      single-item printing(and the fact that you can't upgrade this machine either),
+      no need to sit next to it for 2 minutes for printing 6 sutures
+  Lucky:
+  - bugfix: Fixed security officers with assigned departments not being able to use
+      alternate titles

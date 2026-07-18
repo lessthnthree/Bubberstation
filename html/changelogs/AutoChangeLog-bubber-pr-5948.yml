@@ -1,4 +1,0 @@
-author: "Lucky"
-delete-after: True
-changes:
-  - bugfix: "Fixed security officers with assigned departments not being able to use alternate titles"
