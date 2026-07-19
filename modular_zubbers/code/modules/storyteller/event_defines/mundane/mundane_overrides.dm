@@ -88,6 +88,13 @@
 	track = EVENT_TRACK_MUNDANE
 	tags = list(TAG_TARGETED, TAG_POSITIVE)
 
+/datum/round_event_control/nightshift
+	track = EVENT_TRACK_MUNDANE
+	weight = 30
+	max_occurrences = 5
+	earliest_start = 15 MINUTES
+	tags = list(TAG_COMMUNAL, TAG_POSITIVE)
+
 /datum/round_event_control/easter
 	track = EVENT_TRACK_MUNDANE
 	roundstart = TRUE
