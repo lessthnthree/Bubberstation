@@ -288,4 +288,4 @@
 	id = "limbdesign_ethereal"
 	build_path = /obj/item/disk/design_disk/limbs/ethereal
 */
-// BUBBER EDIT REMOVE END - LIMB GROWERS INCLUDE ALL LIMBS
+// BUBBER EDIT REMOVE END - LIMB GROWERS INCLUDE ALL LIMB TYPES

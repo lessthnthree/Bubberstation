@@ -39,7 +39,7 @@
 	design_ids = list(
 		"xenobioconsole",
 		"slime_scanner",
-		/* BUBBER EDIT REMOVE - LIMB GROWERS INCLUDE ALL LIMBS
+		/* BUBBER EDIT REMOVE - LIMB GROWERS INCLUDE ALL LIMB TYPES
 		"limbdesign_ethereal",
 		"limbdesign_felinid",
 		"limbdesign_lizard",
