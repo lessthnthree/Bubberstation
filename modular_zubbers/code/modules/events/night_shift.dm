@@ -14,7 +14,7 @@
 	if(!.)
 		return
 
-	var/datum/round_event_control/nightshift/night_shift = locate(/datum/round_event_control/nightshift) in SSevents.control
+	var/datum/round_event_control/nightshift/night_shift = locate(/datum/round_event_control/nightshift) in SSgamemode.event_pools[EVENT_TRACK_MUNDANE]
 	if(!night_shift.previous_night_shift)
 		return TRUE
 
@@ -27,7 +27,7 @@
 	end_when = 1400
 
 /datum/round_event/nightshift/setup()
-	var/datum/round_event_control/nightshift/night_shift = locate(/datum/round_event_control/nightshift) in SSevents.control
+	var/datum/round_event_control/nightshift/night_shift = locate(/datum/round_event_control/nightshift) in SSgamemode.event_pools[EVENT_TRACK_MUNDANE]
 	if(night_shift.previous_night_shift)
 		log_admin("Starting Night Shift. Last triggered [DisplayTimeText(world.time - night_shift.previous_night_shift)] ago.")
 		message_admins("Station time is moving into Night Shift. (Last triggered [DisplayTimeText(world.time - night_shift.previous_night_shift)] ago)")
@@ -39,7 +39,7 @@
 /// Extends collect_data
 /datum/controller/subsystem/persistence/collect_data()
 	. = ..()
-	var/datum/round_event_control/night_shift = locate(/datum/round_event_control/nightshift) in SSevents.control
+	var/datum/round_event_control/nightshift/night_shift = locate(/datum/round_event_control/nightshift) in SSgamemode.event_pools[EVENT_TRACK_MUNDANE]
 	if(!night_shift)
 		return
 	log_admin("Night shift ran a total of [night_shift.occurrences] times during this round.")
