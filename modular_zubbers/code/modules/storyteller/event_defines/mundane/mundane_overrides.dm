@@ -90,8 +90,8 @@
 
 /datum/round_event_control/nightshift
 	track = EVENT_TRACK_MUNDANE
-	weight = 30
-	max_occurrences = 5
+	weight = 60
+	max_occurrences = 4
 	earliest_start = 15 MINUTES
 	tags = list(TAG_COMMUNAL, TAG_POSITIVE)
 
