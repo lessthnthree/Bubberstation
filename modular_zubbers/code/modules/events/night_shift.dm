@@ -18,7 +18,7 @@
 	if(!night_shift.previous_night_shift)
 		return TRUE
 
-	if(world.time <= night_shift.previous_night_shift + 45 MINUTES)
+	if(world.time <= night_shift.previous_night_shift + 90 MINUTES)
 		return FALSE
 
 	return TRUE
