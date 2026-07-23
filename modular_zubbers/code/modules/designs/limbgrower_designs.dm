@@ -221,7 +221,7 @@
 	category = list(SPECIES_TAJARAN, RND_CATEGORY_INITIAL)
 
 /datum/design/tajaran_tongue
-	name = "Tajaran Tounge"
+	name = "Tajaran Tongue"
 	id = "tajarantounge"
 	build_type = LIMBGROWER
 	reagents_list = list(/datum/reagent/medicine/c2/synthflesh = 10)
